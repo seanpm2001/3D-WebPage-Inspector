@@ -1,0 +1,13 @@
+[Cargo.toml]
+[For: 3D WebPage Inspector]
+
+[LIBraries]
+
+[Rust_3d]
+# Library in use for now, although it hasn't been updated since 2020
+source1 = "https://github.com/I3ck/rust-3d"
+
+[File info]
+# File type: Cargo file for Rust (*.toml)
+# File version: 1 (2022, Wednesday, April 13th at 2:36 pm PST)
+# Line count (including blank lines and compiler line): 14
