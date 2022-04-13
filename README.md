@@ -1,16 +1,15 @@
 
 ***
 
-# <projectName>
+# 3D WebPage Inspector
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![/Firefox_3D_tilt.png](/Firefox_3D_tilt.png)
 
 # By:
 
 <!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
 
 ## [Seanpm2001](https://github.com/seanpm2001/), [<developerName>](https://github.com/<developerName>/) Et; Al.
-
 
 ### Top
 
@@ -38,13 +37,13 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#3D-WebPage-Inspector)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#RepositoryName)
+[01.0 - Description](#3D-WebPage-Inspector)
 
 [02.0 - About](#About)
 
@@ -100,20 +99,20 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 ***
 
-# <repoName>
-<repo_description>
+# 3D WebPage Inspector
+Firefox used to have this feature a while back (from Firefox 11 to 46) and it is so good, that I feel it needs revival.
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. Firefox used to have a feature where you can inspect webpages in a 3D view. I never got to use it myself, and it has been removed from Firefox for years, with no attempts to recreate it. I will be attempting to recreate it in Rust, and make it available as an add-on to Firefox, and other web browsers.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/<developerName>/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/3D-WebPage-Inspector/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -121,11 +120,11 @@ If the project has been forked, the Wiki was likely removed. Luckily, I include 
 
 ## History
 
-Write about this projects history here.
+This project has a short history so far.
 
 ### Pre-history
 
-No pre-history to show for this project.
+I discovered this removed feature when browsing the [Wikipedia article on the version history of the Mozilla Firefox web browser](https://en.wikipedia.org/wiki/Firefox_version_history#Firefox_10_through_16) on 2022 April 10th, and I began talks with my family to see if it was a good idea to make it into a project. I made it into a project on 2022 April 13th.
 
 ### Alpha history
 
@@ -203,7 +202,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of Yr, DoW, Month, DoM, at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 3 commits (As of 2022, Wednesday, April 13th at 2:17 pm PST)
 
 > * 2. No other contributers.
 
@@ -273,9 +272,9 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file A](PROJECT_LANG_1.<fileExtensionForProgrammingLanguage>)
+[Project language file A](PROJECT_LANG_1.rs)
 
-[Join the discussion on GitHub](https://github.com/<developerName>/<repoName>/discussions)
+[Join the discussion on GitHub](https://github.com/seanpm2001/3D-WebPage-Inspector/discussions)
 
 No other resources at the moment.
 
@@ -291,11 +290,11 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 ## About README
 
-**File type:** `Markdown Document (*.md *.mkd *.markdown)`
+**File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `0.1.6 (Monday, August 23rd 2021 at 6:37 pm)`
+**File version:** `1 (2022, Wednesday, April 13th at 2:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,407`
+**Line count (including blank lines and compiler line):** `0,428`
 
 ***
 
@@ -345,7 +344,7 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * Updated the index
 
-> * Added the history section
+> * Added the history section7
 
 > * Updated the file info section
 
@@ -379,11 +378,33 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * No other changes in version 0.1
 
-Version 1 (Coming soon)
+Version 1 (2022, Wednesday, 2022 Apri 13th at 2:17 pm PST)
 
 > Changes:
 
-> * Coming soon
+> * Updated the file
+
+> * Updated the title section
+
+> * Updated the index
+
+> * Referenced the Firefox 3D inspector image
+
+> * Updated the repository description section
+
+> * Updated the about section
+
+> * Updated the history section
+
+> * Updated the contributors section
+
+> * Updated the resources section
+
+> * Updated the footer
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 1
 
@@ -399,7 +420,7 @@ Version 2 (Coming soon)
 
 ### You have reached the end of the README file
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
+( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) | [Exit to Swisscows](https://www.swisscows.com/) )
 
 ### EOF
 
