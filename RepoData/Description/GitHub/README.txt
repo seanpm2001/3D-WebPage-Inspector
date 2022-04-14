@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Firefox used to have this feature a while back (from Firefox 11 to 46) and it is so good, that I feel it needs revival.
